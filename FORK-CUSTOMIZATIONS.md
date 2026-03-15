@@ -1,6 +1,6 @@
 # Fork Customizations
 
-> This repository is a fork of [unknown]().
+> This repository is a fork of [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills).
 > Managed under the [iAiFy Enterprise](https://github.com/enterprises/iAiFy) governance model.
 
 ## Purpose
@@ -11,7 +11,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 | Property | Value |
 |----------|-------|
-| Upstream | [unknown]() |
+| Upstream | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) |
 | Language | Python |
 | Fork org | AiFeatures |
 
